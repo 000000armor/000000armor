@@ -1,8 +1,16 @@
+<div id="greeting" align="center">
+  <h1>
+    <span>
+      <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    </span>
+    Hey there! Welcome to my GitHub profile! 🚀
+  </h1>
+</div>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/ooFWU2tmYrrtC/giphy.gif" width="300"/>
 </div>
+<h1>About me:</h1>
 <div id="bio">
-  <h4>👋 Hey there! Welcome to my GitHub profile! 🚀</h4>
   <p>
     I'm a frontend JavaScript dev with 3+ years of experience. 🎨 I've dabbled in various projects, from design systems to bank websites, retail apps, and dev2dev applications! 💼💻
   </p>
