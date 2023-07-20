@@ -11,13 +11,13 @@
   </p>
 </div>
 <div id="badges"  align="center">
-   <a href="https://www.linkedin.com/in/david-sevikian-7b2037158/">
+   <a href="https://www.linkedin.com/in/david-sevikian-7b2037158/" target="_blank">
     <img width="96" height="96" src="https://img.icons8.com/fluency/96/linkedin.png" alt="linkedin"/>
   </a>
-  <a href="https://t.me/armor000000">
+  <a href="https://t.me/armor000000" target="_blank">
     <img width="96" height="96" src="https://img.icons8.com/fluency/96/telegram-app.png" alt="telegram-app"/>
   </a>
-  <a href="https://twitter.com/david7ikian">
+  <a href="https://twitter.com/david7ikian" target="_blank">
     <img width="96" height="96" src="https://img.icons8.com/color/96/twitter--v1.png" alt="twitter--v1"/> 
   </a>
 </div>
