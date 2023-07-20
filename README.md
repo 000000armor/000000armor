@@ -9,6 +9,6 @@
     <img width="69" height="69" src="https://img.icons8.com/3d-plastilina/69/linkedin--v1.png" alt="linkedin-badge"/>
   </a>
   <a href="https://t.me/armor000000">
-    <img width="69" height="69" src="https://icons8.com/icon/k4jADXhS5U1t/telegram" alt="telegram-badge"/>
+    <img width="69" height="69" src="https://img.icons8.com/fluency/96/telegram-app.png" alt="telegram-app"/>
   </a>
 </div>
